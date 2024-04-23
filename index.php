@@ -158,7 +158,6 @@
                             <textarea class="form-control" rows="5" id="comment" name="text" placeholder="Комментарий"></textarea>
                         </div>
                         <div class="text-center">
-                            <!-- <button type="button" class="btn btn-success mt-3">Связаться со мной</button> -->
                             <input class="btn btn-success mt-3" type="submit" value="Связаться со мной">
                         </div>
                     </form>
